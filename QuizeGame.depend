@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1539016985 source:d:\semester-3\dcn\finalproject\quizegame\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<windows.h>
+	<time.h>
+
